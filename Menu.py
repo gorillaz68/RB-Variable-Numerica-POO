@@ -1,6 +1,6 @@
 class Menu
     def initialize()
-        opc=0
+        opc=00
    end
     def menu
         puts "1.-Sumar"
